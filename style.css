@@ -27,6 +27,14 @@ body{
 
 
 
+git init
 
+git add .
+
+git commit -m " test this app"
+
+git remote add origin https://github.com/Deepali-1508/flutterapp.git
+
+git push
 
 
